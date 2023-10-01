@@ -1,0 +1,5 @@
+pallete 
+bright 1 : E8AA42
+bright secondary : E8AA42
+middle : E57C23
+dark : 025464
